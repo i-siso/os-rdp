@@ -1,4 +1,4 @@
-name: Wmindows
+name: Windows
 
 on: [push, workflow_dispatch]
 
